@@ -32,10 +32,6 @@ export const routes: Route[] = [
     title: "Projects",
     path: "/projects",
   },
-  {
-    title: "Designs",
-    path: "/designs",
-  },
 ];
 
 
