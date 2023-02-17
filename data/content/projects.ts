@@ -39,7 +39,7 @@ const projects: Project[] = [
     id: 5,
     title: "Java Task Management Bot",
     desc: "Implemented interative brownfield chatbot using Java.",
-    img: "/static/projects/herbalbath1.JPG",
+    img: "/static/projects/johnny2.png",
     link: "https://jamesliuzx.github.io/ip/",
     github: "https://github.com/JamesLiuZX/ip",
     tags: ["Java", "JUnit"],
