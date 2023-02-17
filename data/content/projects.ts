@@ -37,6 +37,15 @@ const projects: Project[] = [
   },
   {
     id: 5,
+    title: "Java Task Management Bot",
+    desc: "Implemented interative brownfield chatbot using Java.",
+    img: "/static/projects/herbalbath1.JPG",
+    link: "https://jamesliuzx.github.io/ip/",
+    github: "https://github.com/JamesLiuZX/ip",
+    tags: ["Java", "JUnit"],
+  },
+  {
+    id: 6,
     title: "Shopify E-Commerce Site",
     desc: "Designed website for business, with over 300 unique visitors per month. Added code customisations for customer needs.",
     img: "/static/projects/herbalbath1.JPG",
